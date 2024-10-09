@@ -14,7 +14,7 @@
 - Step #2 ```wget https://github.com/vosen/ZLUDA/releases/download/v3/zluda-3-linux.tar.gz```
 - Step #3 ```tar -xzvf zluda-3-linux.tar.gz```
 - Step #4 Create a script called gpu.sh and it should look like this from the inside ```LD_LIBRARY_PATH="/path/to/zluda/:$LD_LIBRARY_PATH" ./qli-Client```
-- Note: make sure to change change `/path/to/zluda/` to point to the folder named zluda that you extracted in step #3
+- Note: make sure to change `/path/to/zluda/` in the script to point to the folder named zluda that you extracted in step #3
 
 ## **START MINING!**
 - we have to make the script executable ```chmod +x gpu.sh```
