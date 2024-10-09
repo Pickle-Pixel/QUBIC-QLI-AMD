@@ -24,4 +24,6 @@
 
 ## **Personal Experience*
 - I have RX 7900XTX and it currently gets 130-140 it/s on QLI
-- 
+- ![image](https://github.com/user-attachments/assets/1adf2a91-ec76-4129-931c-33cda020f2a3)
+  
+
