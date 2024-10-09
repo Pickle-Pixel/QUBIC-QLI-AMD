@@ -7,6 +7,8 @@
 - ```sudo apt update```
 - ```wget https://repo.radeon.com/amdgpu-install/6.1.1/ubuntu/jammy/amdgpu-install_6.1.60101-1_all.deb```
 - ```sudo apt install ./amdgpu-install_6.1.60101-1_all.deb```
+- ```sudo amdgpu-install```
+- now check if the GPU is actually identified and working with this command ```rocm-smi``` and it should display GPUs information.
 
 
 ## **ZLUDA Installation**
@@ -19,3 +21,7 @@
 ## **START MINING!**
 - we have to make the script executable ```chmod +x gpu.sh```
 - now run the script with ```./gpu.sh``` and watch your AMD GPUs work!
+
+## **Personal Experience*
+- I have RX 7900XTX and it currently gets 130-140 it/s on QLI
+- 
