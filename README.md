@@ -1,3 +1,7 @@
+## Description
+- This is a guide on how to make AMD/ROCM work on Qubic mining software, even though the software only works on NVIDIA/CUDA this guide shows you how to make it compatible.
+- for more information on what is Qubic https://docs.qubic.org
+
 ## **Install ROCm 6.1.1**
 - Official ROCm https://rocm.docs.amd.com/projects/install-on-linux/en/docs-6.1.1/how-to/amdgpu-install.html
 
